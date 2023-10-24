@@ -1,7 +1,7 @@
 # Olá!!! 
-##### Bem vindo ao meu perfil GitHub 👋
+##### Welcoome to my GitHub profile 👋
 
-   Me chamo Michael Araújo, sou formando em Sistemas para Internet e apaixonado por tecnologia. Gosto muito de buscar conhecimento e aplicar no dia a dia. 
+   Me chamo Michael Araújo, sou formando em Sistemas para Internet e apaixonado por tecnologia. Gosto muito de buscar conhecimento, aprender constantemente e assim aplicar no dia a dia. Aqui, no GitHub, tem alguns dos meus projetos, desenvolvidos durante minha jornada de constante aprendizado.
 
 ## Tecnologias que domino
 
